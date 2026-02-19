@@ -1,4 +1,8 @@
-<h2 align="center">Hey Everyone👋<br>Welcome to the CODING WORLD of Shuvashree Datta</h2>
+<h2 align="center">Hey Everyone👋<br>Welcome to the CODING WORLD of Shuvashree Datta<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="30"/> </h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=CSE+Student+@+AEC;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Scypher+AI..." alt="Typing Animation" />
+</p>
 
 ###
 
