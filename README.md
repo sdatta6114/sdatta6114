@@ -4,7 +4,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=CSE+Student+@+AEC;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Scypher+AI..." alt="Typing Animation" />
 </p>
 
-###
+---
+#### 🟢About Me
+> **I am a 6th-semester Computer Science & Engineering student at Asansol Engineering College** with a passion for building software that thinks and acts. I specialize in bridging the gap between intelligent web ecosystems and physical hardware.
+> 
+<p><h4>💻 Full-Stack Development:</h4> Expertly navigating the MERN Stack, Java, and Django to architect scalable web applications.
+<p><h4>🌐 Frontend & Data:</h4> Crafting responsive interfaces using HTML, CSS, and React, while managing data efficiently with SQLite and MongoDB.</p>
+<p><h4>🧠 Artificial Intelligence:</h4> Deeply involved in Machine Learning and Deep Learning researches.</p>
+<p><h4>📟 IoT & Robotics:</h4> Experimenting with ESP32 and sensors to create hardware that responds to human interaction, like my hand-gesture controlled car.</p>
+<h3>🛠️ Tech Stack</h3>
+<p>Languages: Java, Python, C, JavaScript.</p>
+<p>Web Development: HTML, CSS, React, Django, Node.js.</p>
+<p>Databases: SQLite, MongoDB.</p>
+<p>AI/ML: Scikit-Learn, Pandas, Deep Learning.</p>
+<p>Hardware: IoT, ESP32, Arduino.</p>
+
+**Recently developing ***Scypher***, a JARVIS-inspired AI assistant for Hacktropica Hackathon**
+
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
@@ -40,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -50,14 +67,14 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sdatta6114&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <!-- <img src="https://github-profile-trophy.vercel.app?username=sdatta6114&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdatta6114/sdatta6114/output/pacman-contribution-graph-dark.svg">
